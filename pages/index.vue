@@ -45,7 +45,7 @@ export default {
   },
   mounted () {
     axios
-      .get("http://www.omdbapi.com/?s=space&apikey=5fc751f4")
+      .get("https://www.omdbapi.com/?s=space&apikey=5fc751f4")
       .then(response => (this.movies = response.data))
       .catch(error => {
         console.log(error)

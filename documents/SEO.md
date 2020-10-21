@@ -4,4 +4,4 @@ Search Engine Optimization (SEO) can assist in a site gaining more traffic from 
 
 SEO Proposal
 
-In order to improve the SEO of my website, I would ensure Spaceland and other unique terms (i.e., attractions, neptune's water falls) are assigned to headers. I would also add Google Analytics into my site's code and review where people click on most often or explore on the site, so that I can leverage these high-touch areas within my SEO.
+In order to improve the SEO of my website, I would ensure Spaceland and other unique terms (i.e., attractions, neptune's water falls) are assigned to headers, as well as the title of each page. I would also add Google Analytics into my site's code and review where people click on most often or explore on the site, so that I can leverage these high-touch areas within my SEO.

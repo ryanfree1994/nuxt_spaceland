@@ -40,7 +40,16 @@ export default {
     return {
       loading: true,
       movies: null,
-      errored: false
+      errored: false,
+      title: 'Spaceland Home'
+    }
+  },
+  head (){
+    return {
+      title: this.title,
+      meta: [
+      { hid: 'Spaceland Website', name: 'Spaceland', content: 'Spaceland: the nostalgia and excitement of space in one place' }
+      ]
     }
   },
   mounted () {

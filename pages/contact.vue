@@ -61,7 +61,16 @@ export default {
           checked: false
         },
       ],
+      title: 'Spaceland Contact'
     }
   },
-};
+  head (){
+    return {
+      title: this.title,
+      meta: [
+      { hid: 'Spaceland Website', name: 'Spaceland', content: 'Spaceland: the nostalgia and excitement of space in one place' }
+      ]
+    }
+  },
+}
 </script>

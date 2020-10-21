@@ -1,0 +1,14 @@
+{
+  "Photos": {
+    "description": "Auto imported from components/Photos.vue"
+  },
+  "LazyPhotos": {
+    "description": "Auto imported from components/Photos.vue"
+  },
+  "Tile": {
+    "description": "Auto imported from components/Tile.vue"
+  },
+  "LazyTile": {
+    "description": "Auto imported from components/Tile.vue"
+  }
+}

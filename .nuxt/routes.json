@@ -1,0 +1,26 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/Ryan/Desktop/nuxt_spaceland/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "attractions",
+    "path": "/attractions",
+    "component": "/Users/Ryan/Desktop/nuxt_spaceland/pages/attractions.vue",
+    "chunkName": "pages/attractions"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/Ryan/Desktop/nuxt_spaceland/pages/contact.vue",
+    "chunkName": "pages/contact"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/Ryan/Desktop/nuxt_spaceland/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
